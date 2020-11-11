@@ -4,7 +4,7 @@ public class findMaxnum {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-//	ㅇㅈㅇㅈㅈ
+
 		Scanner scan = new Scanner(System.in);
 		System.out.print("input number : ");
 		int num = scan.nextInt();	
