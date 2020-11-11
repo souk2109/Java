@@ -33,7 +33,7 @@ public class findPrimenumber {
 			if(IsPrimeNumber == true)
 				System.out.println("it is primeNumber.");
 			else
-				System.out.print("it is not primeNumber.¿‘¥œ¥Ÿ");	
+				System.out.print("it is not primeNumber.");	
 		}
 	}
 
