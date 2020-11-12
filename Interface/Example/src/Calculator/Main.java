@@ -12,7 +12,7 @@ public class Main {
 			actCalculator.ResetShow();
 			switch (scan.nextInt()) {
 			case 1:
-				System.out.print("두 수를 입력하시오 : ");
+				System.out.print("두 수를 입력하시오: ");
 				int num1 = scan.nextInt();
 				int num2 = scan.nextInt();
 				actCalculator.add(num1, num2);
