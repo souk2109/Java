@@ -3,8 +3,8 @@ package Calculator;
 public class ActCalculator implements CalculateInterface{
 	public void ResetShow() {
 		System.out.println("-------------------------");
-		System.out.println("계산을 하고 싶으면 1번을 입력하세요. ");
-		System.out.println("그만하고 싶으면 2번을 입력하세요. ");
+		System.out.println("계산을 하고 싶으면 1번을 입력하세요.");
+		System.out.println("그만하고 싶으면 2번을 입력하세요.");
 		System.out.print("입력 : ");
 	}
 	@Override
